@@ -1,0 +1,5 @@
+version: '2'
+services:
+  service:
+    build: .
+    image: codollo/docker-maven-kotlin-tut:1.0.0
